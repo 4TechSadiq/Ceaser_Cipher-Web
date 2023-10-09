@@ -24,4 +24,4 @@ def home():
     return render_template("index.html",msg="Output Shows Here")
 
 
-app.run(port=80, debug=True)
+app.run(port=80, debug=False)
