@@ -24,7 +24,6 @@ def home():
     return render_template("index.html",msg="Output Shows Here")
 
 
-app.run(host="0.0.0.0", port=80, use_reloader=True, threaded=True,debug=True)
 
 if __name__ == '__main__':
     app.debug = True
