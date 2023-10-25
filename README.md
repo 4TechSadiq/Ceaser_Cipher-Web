@@ -21,26 +21,22 @@ Once you have entered this information, click the "Encrypt" or "Decrypt" button 
 
 1. Clone this repository to your local machine.
 ```
-git clone https://github.com/riz4d/Layer3
+git clone https://github.com/S4DIQ84/Ceaser_Cipher-Web
 ```
-2. Fill the required configuration variables at
-```
-`layer/config.py`
-```
-3. Install Dependencies with pip
+2. Install Dependencies with pip
 ```
 pip install -r requirements.txt
 ```
 
-4. Then run with
+3. Then run with
 
 ```
-python3 manage.py runserver
+python3 app.py
 ```
 
-5. Now it's been live in your Localhost
+4. Now it's been live in your Localhost
 ```
-127.0.0.1:8000
+127.0.0.1
 ```
 ## Security
 The Caesar cipher encoder is secure and reliable. It uses a strong encryption algorithm and does not store any user data.
