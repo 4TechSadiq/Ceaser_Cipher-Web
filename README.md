@@ -1,4 +1,4 @@
-# Caesar Cipher Encoder
+# Ceasar Cipher Encoder
 This is a small web-based project about Caesar cipher encoding. It allows users to encrypt and decrypt messages using a Caesar cipher.
 
 To encrypt a message, simply enter the message and the key into the form and click the "Encrypt" button. The encrypted message will be displayed in the output field.
